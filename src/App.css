@@ -1,0 +1,23 @@
+.content {
+  height: 650px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #141618;
+  color: white;
+  transition: 2s;
+}
+.day {
+  background-color: yellow;
+  color: #141618;
+}
+button {
+  width: 120px;
+  height: 35px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 15px;
+}
